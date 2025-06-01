@@ -4,7 +4,7 @@
 
 # Data Structure & Quality Checks
 
-![image](https://github.com/user-attachments/assets/83ccdda5-4dcd-4984-807c-335e85857bec)
+![Alt text](images/Elist_ERD_Diagram.png)
 
 ## Project Goals 
 
