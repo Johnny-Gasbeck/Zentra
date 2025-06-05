@@ -2,6 +2,7 @@
 
 ## Project Background
 Elist, founded in 2018, is a global e-commerce company specializing in popular electronics. It operates through both its website and mobile app, leveraging marketing channels such as email campaigns, SEO, and affiliate partnerships to reach customers. In recent years, top-selling products have included devices from Apple, Samsung, and ThinkPad.
+
 This data analysis was conducted to generate insights for key departments—including finance, sales, product, and marketing. The goal was to help stakeholders better understand Elist’s performance and support improvements in day-to-day operations, ultimately enhancing the company’s ability to deliver high-quality products to customers worldwide.
 
 ## Key Stakeholder Questions
@@ -16,8 +17,6 @@ This data analysis was conducted to generate insights for key departments—incl
 Elist’s database structure as seen below consists of four tables: orders, geo_lookup, customers, and order_status, with a total row count of 108,127 records. 
 
 ![Alt text](images/Elist_ERD_Diagram.png)
-
-## Project Goals 
 
 # Executive Summary
 
