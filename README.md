@@ -1,4 +1,4 @@
-# Elist-Electronics-Analysis
+# Elist-Electronics-Analysis (Work In Progress)
 
 ## Project Background
 Elist, founded in 2018, is a global e-commerce company specializing in popular electronics. It operates through both its website and mobile app, leveraging marketing channels such as email campaigns, SEO, and affiliate partnerships to reach customers. In recent years, top-selling products have included devices from Apple, Samsung, and ThinkPad.
