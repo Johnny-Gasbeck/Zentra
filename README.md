@@ -24,6 +24,14 @@ Elist’s database structure as seen below consists of four tables: orders, geo_
 
 ## Historical Trends
 
+Yearly Sales Trends
+• Average yearly revenue was $7M, growing at an average rate of 35.6%, while yearly orders averaged 27,000 with a growth rate of 22.3%, and AOV averaged $255 with a growth rate of 1.9%.
+
+• 2020 marked the peak year, with $10M in sales and a $300 AOV, up from a $230 AOV in 2019—highlighting strong pandemic-driven demand.
+
+• In 2022 sales fell to $5M and AOV returned to $230, while 2021 had the highest order count, indicating more purchases but at lower values.
+
+
 ## Seasonal Trends
 • Top Performing Months: December, September, and January consistently generate the highest revenue and order volume. These peaks likely reflect increased consumer spending during the holiday season and back-to-school periods
 
