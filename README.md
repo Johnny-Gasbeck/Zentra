@@ -24,7 +24,7 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 
 ## Historical Trends
 
-Yearly Sales Trends
+### Yearly Sales Trends
 
 • Average yearly revenue was $7M, growing at an average rate of 35.6%, while yearly orders averaged 27,000 with a growth rate of 22.3%, and AOV averaged $255 with a growth rate of 1.9%.
 
@@ -34,7 +34,7 @@ Yearly Sales Trends
 
 • In 2022 sales dropped to $5M and AOV returned to $230, a 46% decrease in revenue and 10% decrease in AOV from 2021.
 
-Monthly Sales Trends
+### Monthly Sales Trends
 
 • Average monthly revenue was $586K with a monthly growth rate of 1.4%, average monthly orders were 2,000 (1.1% growth rate), and AOV averaged $253 (0.3% growth rate).
 
@@ -73,7 +73,7 @@ Monthly Sales Trends
 
 • Non-loyalty members had a higher average monthly revenue of $357K, compared to $229K for loyalty members
 
-Yearly Trends
+### Yearly Trends
 
 • In 2019 and 2020, non-loyalty members led in total sales, AOV, and order volume
 
@@ -81,12 +81,12 @@ Yearly Trends
 
 • In 2022, loyalty members also overtook non-loyalty members in AOV, continuing the positive trend
 
-Recent Monthly Reversal (Late 2022)
+### Recent Monthly Reversal (Late 2022)
 
 • In the final months of 2022, non-loyalty members again outperformed loyalty members in both revenue and AOV
 
 # Refund Rates
-Refund Trends Across All Products
+### Refund Trends Across All Products
 
 • The overall refund rate across all products was 5% with a total of 1.4M in refund amounts 
 
@@ -98,7 +98,7 @@ Refund Trends Across All Products
 
 • Caveat: No refunds were recorded from August 2021 onward, indicating a potential data gap
  
-Refund Trends Across Apple Products
+### Refund Trends Across Apple Products
 
 • The overall refund rate for Apple products was 5.9% and accounted for 82.8% of the total refund amount across all products
 
@@ -109,14 +109,14 @@ Refund Trends Across Apple Products
 • Although Apple AirPods accounted for 85% of all Apple refund orders, the MacBook Air had both the highest refund rate (11.4%) and the highest total refund value, resulting in a significant revenue loss
 
 # Recommendations
-Recommendations Based on Historical Trends
+### Recommendations Based on Historical Trends
 
 • Investigate the post-2020 decline in revenue and AOV by analyzing external market shifts, product changes, and customer behavior
 
 • Align cross-functional teams (marketing, product, operations) to emphasize growth not just in volume, but also in value (AOV yearly growth rate only 1.9% vs. yearly growth rate of 22.3% in orders)
 Seasonal Trends
 
-Recommendations Based on Seasonal Trends
+### Recommendations Based on Seasonal Trends
 
 • Launch campaigns earlier in Q4 and before back-to-school season to capture peak spending (especially in Oct–Dec and Aug–Sept)
 
@@ -124,7 +124,7 @@ Recommendations Based on Seasonal Trends
 
 • Maintain engagement in low-volume months (e.g., Feb, June) with clearance sales, staff training, or pilot initiatives
 
-Recommendations Based on Product Trends
+### Recommendations Based on Product Trends
 
 • Prioritize promotion of high-revenue, high-potential products like Apple AirPods and the 27" Gaming Monitor
 
@@ -132,27 +132,28 @@ Recommendations Based on Product Trends
 
 • Boost promotion for high-AOV underperformers like the Apple iPhone: Despite its strong average order value, the iPhone contributes just 0.8% of revenue. Consider targeted marketing (email campaigns, featured product placements, or limited-time bundles) to increase visibility and drive conversions
 
-Recommendations Based on Geographical Trends
+### Recommendations Based on Geographical Trends
 Focus on Japan as a high-AOV growth opportunity, using localized ads, translated content, and regional partnerships to boost volume
 
 Protect core markets (U.S., U.K., Canada) by ensuring stock availability and customer experience are optimized during high-demand periods
 
 Diversify market exposure beyond the U.S. (which accounts for ~47% of sales) by scaling efforts to increase AOV in countries like Australia, which have strong order volume, by bundling accessories or offering add-ons at checkout
 
-Recommendations for Loyalty Program 
+### Recommendations for Loyalty Program 
 
-Monitoring the Loyalty Program
+##### Monitoring the Loyalty Program
 
 • The data does not provide enough evidence to make a conclusive decision about keeping the loyalty program. The reversal in 2021-2022 suggests growing engagement, but the late 2022 trend reversal highlights the need for ongoing performance monitoring. 
 
 • Evalute ROI of the loyalty program: Compare customer acquisition cost (CAC) and retention rate for loyalty vs. non loyalty members to help determine the financial viability of keeping or scaling this program
 
-Ways to Improve Loyalty Program 
+#### Ways to Improve Loyalty Program 
 
 • Launch a re-engagement campaign for inactive loyalty members:Identify members who haven’t purchased recently and encourage them to return with time-limited offers or bonus rewards
+
 • Promote membership at checkout and align program incentives with bestsellers to maximize adoption and repeat purchase behavior.
 
-Recommendations B ased onRefund Rates
+### Recommendations Based on Refund Rates
 
 • Investigate high-refund products, especially the MacBook Air (11.4% refund rate, $719K in losses), to address quality or expectation gaps
 
