@@ -1,6 +1,7 @@
 # Elist-Electronics-Analysis (Work In Progress)
 
 ## Project Background
+
 Elist, founded in 2018, is a global e-commerce company specializing in popular electronics. It operates through both its website and mobile app, leveraging marketing channels such as email campaigns, SEO, and affiliate partnerships to reach customers. In recent years, top-selling products have included devices from Apple, Samsung, and ThinkPad.
 
 This data analysis was conducted to generate insights for key departments — including finance, sales, product, and marketing. The goal was to help stakeholders better understand Elist’s performance and support improvements in day-to-day operations, ultimately enhancing the company’s ability to deliver high-quality products to customers worldwide.
@@ -14,6 +15,7 @@ This data analysis was conducted to generate insights for key departments — in
 
 
 # Data Structure & Quality Checks
+
 Elist’s database structure consists of four tables: orders, geo_lookup, customers, and order_status, with a total row count of 108,127 records. 
 
 ![Alt text](images/Elist_ERD_Diagram.png)
@@ -26,7 +28,7 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 
 ### Yearly Sales Trends
 
-• Average yearly revenue was $7M, growing at an average rate of 35.6%, while yearly orders averaged 27,000 with a growth rate of 22.3%, and AOV averaged $255 with a growth rate of 1.9%.
+• Average yearly revenue was $7M, growing at an average rate of 35.6%, yearly orders averaged 27,000 with a growth rate of 22.3%, and AOV averaged $255 with a growth rate of 1.9%.
 
 • 2020 marked the peak year, with $10M in sales and a $300 AOV, up from 3.9M in sales and a $230 AOV in 2019 — highlighting strong pandemic-driven demand.
 
@@ -43,6 +45,7 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 • AOV peaked at $322 in October 2020, before declining consistently, reflecting shifts in product mix or reduced high-value purchases post-2020.
 
 ## Seasonal Trends
+
 • Top Performing Months: December, September, and January consistently generate the highest revenue and order volume. These peaks likely reflect increased consumer spending during the holiday season and back-to-school periods
 
 • Lowest Performing Months: February, October, and June tend to have the lowest revenue and order counts, possibly due to a post-holiday dip and reduced spending following the back-to-school season
@@ -50,6 +53,7 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 • Holiday Surge Effect: November shows a strong seasonal lift, with an average revenue increase of 18% and an average order increase of 24% compared to the previous month. December follows with an average monthly revenue increase of 23% and a 21% rise in orders, likely driven by holiday gift purchases and year-end promotions
 
 ## Product Trends
+
 • Top Grossing Products: The 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air are the highest revenue-generating products, accounting for 35%, 27.5%, and 22.4% of total sales, respectively
 
 • Products with Highest Average Order Value (AOV): The MacBook Air ($1,588), ThinkPad ($1,100), and Apple iPhone ($741) have the highest AOVs, indicating strong revenue potential per transaction
@@ -60,7 +64,7 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 
 ## Geographical Trends
 
-• Top-Grossing Country: The United States is the leading market, generating 47.3% of total sales revenue — over six times that of the United Kingdom, which ranks second
+• Top Grossing Country: The United States is the leading market, generating 47.3% of total sales revenue — over six times that of the United Kingdom, which ranks second
 
 • Top 5 Countries by Revenue: The United States, United Kingdom, Canada, Japan, and Denmark are the top five revenue-generating countries, together accounting for 66.1% of total sales
 
@@ -69,7 +73,8 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 • High AOV Opportunity in Japan: Among the top 5 countries by revenue, Japan has the highest average order value (AOV) at $393, but the lowest order volume
 
 # Loyalty Program 
-• Non-loyalty members have outperformed loyalty members in total revenue and average order value (AOV) over the full period as non-loyalty members generated $17M in revenue with an AOV of $263, while loyalty members generated $11M in revenue with an AOV of $225
+
+• Non-loyalty members have outperformed loyalty members in total revenue and AOV over the full period as non-loyalty members generated $17M in revenue with an AOV of $263, while loyalty members generated $11M in revenue with an AOV of $225
 
 • Non-loyalty members had a higher average monthly revenue of $357K, compared to $229K for loyalty members
 
@@ -133,11 +138,12 @@ Seasonal Trends
 • Boost promotion for high-AOV underperformers like the Apple iPhone: Despite its strong average order value, the iPhone contributes just 0.8% of revenue. Consider targeted marketing (email campaigns, featured product placements, or limited-time bundles) to increase visibility and drive conversions
 
 ### Recommendations Based on Geographical Trends
-Focus on Japan as a high-AOV growth opportunity, using localized ads, translated content, and regional partnerships to boost volume
 
-Protect core markets (U.S., U.K., Canada) by ensuring stock availability and customer experience are optimized during high-demand periods
+• Focus on Japan as a high-AOV growth opportunity, using localized ads, translated content, and regional partnerships to boost volume
 
-Diversify market exposure beyond the U.S. (which accounts for ~47% of sales) by scaling efforts to increase AOV in countries like Australia, which have strong order volume, by bundling accessories or offering add-ons at checkout
+• Protect core markets (U.S., U.K., Canada) by ensuring stock availability and customer experience are optimized during high-demand periods
+
+• Diversify market exposure beyond the U.S. (which accounts for ~47% of sales) by scaling efforts to increase AOV in countries like Australia, which have strong order volume, by bundling accessories or offering add-ons at checkout
 
 ### Recommendations for Loyalty Program 
 
@@ -147,9 +153,9 @@ Diversify market exposure beyond the U.S. (which accounts for ~47% of sales) by 
 
 • Evalute ROI of the loyalty program: Compare customer acquisition cost (CAC) and retention rate for loyalty vs. non loyalty members to help determine the financial viability of keeping or scaling this program
 
-#### Ways to Improve Loyalty Program 
+##### Ways to Improve Loyalty Program 
 
-• Launch a re-engagement campaign for inactive loyalty members:Identify members who haven’t purchased recently and encourage them to return with time-limited offers or bonus rewards
+• Launch a re-engagement campaign for inactive loyalty members: Identify members who haven’t purchased recently and encourage them to return with time-limited offers or bonus rewards
 
 • Promote membership at checkout and align program incentives with bestsellers to maximize adoption and repeat purchase behavior.
 
