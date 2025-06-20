@@ -22,6 +22,15 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 
 # Executive Summary
 
+• Peak sales occurred in December 2020, with monthly revenue reaching $ 1.3M during the pandemic-driven e-commerce boom. Sales declined significantly after 2020, with revenue dropping 46% and AOV falling 10% from 2021 to 2022, signaling a shift in consumer behavior and product engagement. Teams should investigate these trends and work cross-functionally to boost AOV (which only grew 1.9% annually vs. 22.3% in orders) through pricing strategies, bundling, and product mix optimization.
+
+•Campaigns should launch earlier in Q4 and back-to-school periods (Aug–Nov) to capitalize on seasonality trends, while slow months like February (historically under $400K) can be used for promotions, process improvements, or piloting new initiatives.
+
+• Top products like Apple AirPods and a 27" 4K Gaming Monitor account for a combined $1.4M+ in revenue, yet high-AOV items like the iPhone contribute just 0.8% of total revenue. Marketing should prioritize high-return SKUs, increase visibility for underperformers, and reduce investment in consistently low performers like Bose SoundSport. Meanwhile, Japan—with the highest AOV among regions—presents a key growth opportunity if order volume can be increased.
+
+• Loyalty program underperformed in comparison to non-loyalty members as it only accounted for 39% of revenue and had a smaller yearly AOV over the full period. However, loyalty program performance improved in 2021 and 2022, with signs of re-engagement followed by a late-year dip, emphasizing the need for tighter performance tracking. Loyalty revenue dropped 44% from 2021 to 2022, suggesting a need to re-engage inactive members, evaluate ROI, and promote loyalty incentives at checkout to boost participation and retention.
+
+• Refunds on the MacBook Air alone total $719K with an 11.4% refund rate, eroding margins despite strong sales. Investigating causes, recovering missing refund data from Aug 2021–2022, and modeling long-term impact will help optimize product offerings and reduce costly returns.
 # Deep-Dive Insights
 
 ## Historical Trends
