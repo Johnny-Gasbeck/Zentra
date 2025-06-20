@@ -21,6 +21,7 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 ![Alt text](images/Elist_ERD_Diagram.png)
 
 # Executive Summary
+![Executive Summary](https://github.com/user-attachments/assets/4953b796-bdd3-4a1a-9aeb-2c98248875b5)
 
 • Peak sales occurred in December 2020, with monthly revenue reaching $ 1.3M during the pandemic-driven e-commerce boom. Sales declined significantly after 2020, with revenue dropping 46% and AOV falling 10% from 2021 to 2022, signaling a shift in consumer behavior and product engagement. Teams should investigate these trends and work cross-functionally to boost AOV (which only grew 1.9% annually vs. 22.3% in orders) through pricing strategies, bundling, and product mix optimization.
 
@@ -34,6 +35,7 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 # Deep-Dive Insights
 
 ## Historical Trends
+![Monthly Trends](https://github.com/user-attachments/assets/add201ba-da8e-4709-8ac0-b2a7e69632b3)
 
 ### Yearly Sales Trends
 
@@ -62,6 +64,7 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 • Holiday Surge Effect: November shows a strong seasonal lift, with an average revenue increase of 18% and an average order increase of 24% compared to the previous month. December follows with an average monthly revenue increase of 23% and a 21% rise in orders, likely driven by holiday gift purchases and year-end promotions
 
 ## Product Trends
+![Product Trends (1)](https://github.com/user-attachments/assets/16d1ac99-66e1-4bb9-98b4-29ec86d75bde)
 
 • Top Grossing Products: The 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air are the highest revenue-generating products, accounting for 35%, 27.5%, and 22.4% of total sales, respectively
 
@@ -72,6 +75,7 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 • Lowest Performing Product: The Bose SoundSport significantly underperformed, generating less than 0.1% of total revenue, with just $3,000 in sales and 27 orders overall
 
 ## Geographical Trends
+![Geographic Trends](https://github.com/user-attachments/assets/32e6b748-d0f0-4040-aa78-6c43839a876b)
 
 • Top Grossing Country: The United States is the leading market, generating 47.3% of total sales revenue — over six times that of the United Kingdom, which ranks second
 
