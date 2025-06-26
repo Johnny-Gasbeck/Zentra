@@ -21,9 +21,9 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 ![Alt text](images/Elist_ERD_Diagram.png)
 
 # Executive Summary
-![Executive Summary](https://github.com/user-attachments/assets/4953b796-bdd3-4a1a-9aeb-2c98248875b5)
+![Executive Summary](https://github.com/user-attachments/assets/3baea246-a4b1-4aeb-9758-4a72a61115d0)
 
-• Peak sales occurred in December 2020, with monthly revenue reaching $ 1.3M during the pandemic-driven e-commerce boom. Sales declined significantly after 2020, with revenue dropping 46% and AOV falling 10% from 2021 to 2022, signaling a shift in consumer behavior and product engagement. Teams should investigate these trends and work cross-functionally to boost AOV (which only grew 1.9% annually vs. 22.3% in orders) through pricing strategies, bundling, and product mix optimization.
+• Peak sales occurred in December 2020, with monthly revenue reaching $1.3M during the pandemic-driven e-commerce boom. Sales declined significantly after 2020, with revenue dropping 46% and AOV falling 10% from 2021 to 2022, signaling a shift in consumer behavior and product engagement. Teams should investigate these trends and work cross-functionally to boost AOV (which only grew 1.9% annually vs. 22.3% in orders) through pricing strategies, bundling, and product mix optimization.
 
 •Campaigns should launch earlier in Q4 and back-to-school periods (Aug–Nov) to capitalize on seasonality trends, while slow months like February (historically under $400K) can be used for promotions, process improvements, or piloting new initiatives.
 
@@ -35,13 +35,13 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 # Deep-Dive Insights
 
 ## Historical Trends
-![Monthly Trends](https://github.com/user-attachments/assets/add201ba-da8e-4709-8ac0-b2a7e69632b3)
+![Monthly Trends 6 51 04 PM](https://github.com/user-attachments/assets/2c27ff98-a011-4962-8f27-caaf03be11be)
 
 ### Yearly Sales Trends
 
 • Average yearly revenue was $7M, growing at an average rate of 35.6%, yearly orders averaged 27,000 with a growth rate of 22.3%, and AOV averaged $255 with a growth rate of 1.9%.
 
-• 2020 marked the peak year, with $10M in sales and a $300 AOV, up from 3.9M in sales and a $230 AOV in 2019 — highlighting strong pandemic-driven demand.
+• 2020 marked the peak year, with $10M in sales and a $300 AOV, up from $3.9M in sales and a $230 AOV in 2019 — highlighting strong pandemic-driven demand.
 
 • 2021 had the highest order count with a growth rate of 6% from 2020, indicating more purchases but at lower order values.
 
@@ -64,7 +64,7 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 • Holiday Surge Effect: November shows a strong seasonal lift, with an average revenue increase of 18% and an average order increase of 24% compared to the previous month. December follows with an average monthly revenue increase of 23% and a 21% rise in orders, likely driven by holiday gift purchases and year-end promotions
 
 ## Product Trends
-![Product Trends (1)](https://github.com/user-attachments/assets/16d1ac99-66e1-4bb9-98b4-29ec86d75bde)
+![Product Trends](https://github.com/user-attachments/assets/cdd97b40-ad85-4c3d-a6cc-8295fd488337)
 
 • Top Grossing Products: The 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air are the highest revenue-generating products, accounting for 35%, 27.5%, and 22.4% of total sales, respectively
 
@@ -75,7 +75,7 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 • Lowest Performing Product: The Bose SoundSport significantly underperformed, generating less than 0.1% of total revenue, with just $3,000 in sales and 27 orders overall
 
 ## Geographical Trends
-![Geographic Trends](https://github.com/user-attachments/assets/32e6b748-d0f0-4040-aa78-6c43839a876b)
+![Geographic Trends](https://github.com/user-attachments/assets/84d94dce-cb7f-4f62-9e09-5b43d4df11c0)
 
 • Top Grossing Country: The United States is the leading market, generating 47.3% of total sales revenue — over six times that of the United Kingdom, which ranks second
 
@@ -86,8 +86,9 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 • High AOV Opportunity in Japan: Among the top 5 countries by revenue, Japan has the highest average order value (AOV) at $393, but the lowest order volume
 
 # Loyalty Program 
+![Loyalty Trends](https://github.com/user-attachments/assets/5de94b53-8f0c-4566-a967-d2cc25df79c6)
 
-• Non-loyalty members have outperformed loyalty members in total revenue and AOV over the full period as non-loyalty members generated $17M in revenue with an AOV of $263, while loyalty members generated $11M in revenue with an AOV of $225
+• Non-loyalty members outperformed loyalty members in total revenue and AOV over the full period as non-loyalty members generated $17M in revenue with an AOV of $263, while loyalty members generated $11M in revenue with an AOV of $225
 
 • Non-loyalty members had a higher average monthly revenue of $357K, compared to $229K for loyalty members
 
@@ -132,7 +133,6 @@ Elist’s database structure consists of four tables: orders, geo_lookup, custom
 • Investigate the post-2020 decline in revenue and AOV by analyzing external market shifts, product changes, and customer behavior
 
 • Align cross-functional teams (marketing, product, operations) to emphasize growth not just in volume, but also in value (AOV yearly growth rate only 1.9% vs. yearly growth rate of 22.3% in orders)
-Seasonal Trends
 
 ### Recommendations Based on Seasonal Trends
 
@@ -162,9 +162,9 @@ Seasonal Trends
 
 ##### Monitoring the Loyalty Program
 
-• The data does not provide enough evidence to make a conclusive decision about keeping the loyalty program. The reversal in 2021-2022 suggests growing engagement, but the late 2022 trend reversal highlights the need for ongoing performance monitoring. 
+• The data does not provide enough evidence to make a conclusive decision about keeping the loyalty program. The reversal in 2021-2022 suggests growing engagement, but the late 2022 trend reversal highlights the need for ongoing performance monitoring
 
-• Evalute ROI of the loyalty program: Compare customer acquisition cost (CAC) and retention rate for loyalty vs. non loyalty members to help determine the financial viability of keeping or scaling this program
+• Evaluate ROI of the loyalty program: Compare customer acquisition cost (CAC) and retention rate for loyalty vs. non loyalty members to help determine the financial viability of keeping or scaling this program
 
 ##### Ways to Improve Loyalty Program 
 
