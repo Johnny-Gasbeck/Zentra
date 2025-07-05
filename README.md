@@ -39,7 +39,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 ### Monthly Sales Trends
 
-• Average monthly revenue was $586K with a month over month (MoM) growth rate of 1.4%, average monthly orders were 2,000 (1.1% growth rate), and AOV averaged $253 (0.3% growth rate).
+• Average monthly revenue was $586K with a month-over-month (MoM) growth rate of 1.4%, average monthly orders were 2,000 (1.1% growth rate), and AOV averaged $253 (0.3% growth rate).
 
 • Sales revenue peaked in December 2020, then steadily declined—likely driven by a surge in holiday spending and increased e-commerce activity during the pandemic.
 
@@ -47,7 +47,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 ### Yearly Sales Trends
 
-• Average yearly revenue was $7M, growing at a year over year rate of 35.6%, yearly orders averaged 27,000 with a growth rate of 22.3%, and AOV averaged $255 with a growth rate of 1.9%.
+• Average yearly revenue was $7M, growing at a year-over-year rate of 35.6%, yearly orders averaged 27,000 with a growth rate of 22.3%, and AOV averaged $255 with a growth rate of 1.9%.
 
 • 2020 marked the peak year, with $10M in sales and a $300 AOV, up from $3.9M in sales and a $230 AOV in 2019 — highlighting strong pandemic-driven demand.
 
@@ -102,7 +102,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 • In 2022, loyalty members also overtook non-loyalty members in AOV, continuing the positive trend. In the final months of 2022, non-loyalty members again outperformed loyalty members in both revenue and AOV
 
-# Refund Rates
+# Refunds
 ### Refund Trends Across All Products
 
 • The overall refund rate across all products was 5% with a total of 1.4M in refund amounts. Apple products accounted for 83% of the total refund amount. 
@@ -161,7 +161,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 • The data does not provide enough evidence to make a conclusive decision about keeping the loyalty program. The reversal in 2021-2022 suggests growing engagement, but the late 2022 trend reversal highlights the need for ongoing performance monitoring. 
 
-• Evalute ROI of the loyalty program: Compare customer acquisition cost (CAC) and retention rate for loyalty vs. non loyalty members to help determine the financial viability of keeping or scaling this program
+• Evaluate ROI of the loyalty program: Compare customer acquisition cost (CAC) and retention rate for loyalty vs. non-loyalty members to help determine the financial viability of keeping or scaling this program
 
 ##### Ways to Improve Loyalty Program 
 
@@ -169,7 +169,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 • Promote membership at checkout and align program incentives with bestsellers to maximize adoption and repeat purchase behavior.
 
-### Recommendations Based on Refund Rates
+### Recommendations Based on Refund Trends
 
 • Investigate high-refund products, especially the MacBook Air (11.4% refund rate, $719K in losses), to address quality or expectation gaps
 
