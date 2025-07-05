@@ -131,9 +131,6 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 • Align cross-functional teams (marketing, product, operations) to emphasize growth not just in volume, but also in value (AOV yearly growth rate only 1.9% vs. yearly growth rate of 22.3% in orders)
 
-
-Seasonal Trends
-
 ### Recommendations Based on Seasonal Trends
 
 • Launch campaigns earlier in Q4 and before back-to-school season to capture peak spending (especially in Oct–Dec and Aug–Sept)
