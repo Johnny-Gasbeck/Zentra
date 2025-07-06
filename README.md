@@ -35,7 +35,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 # Deep-Dive Insights
 
 ## Historical Trends
-![Monthly Trends 6 51 04 PM](https://github.com/user-attachments/assets/2c27ff98-a011-4962-8f27-caaf03be11be)
+![Monthly Trends 3 00 26 PM](https://github.com/user-attachments/assets/ec9c8872-805a-4d1f-ac57-c521a0af838d)
 
 ### Monthly Sales Trends
 
@@ -55,8 +55,8 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 • In 2022 sales dropped to $5M and AOV returned to $230, a 46% decrease in revenue and 10% decrease in AOV from 2021.
 
-
 ## Seasonal Trends
+![Seasonality Trends](https://github.com/user-attachments/assets/346bac56-c6d8-4348-9c68-b2e50def63a0)
 
 • Top Performing Months: December, September, and January consistently generate the highest revenue and order volume. These peaks likely reflect increased consumer spending during the holiday season and back-to-school periods
 
@@ -66,7 +66,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 
 ## Product Trends
-![Product Trends](https://github.com/user-attachments/assets/cdd97b40-ad85-4c3d-a6cc-8295fd488337)
+![Product Trends 2 47 08 PM](https://github.com/user-attachments/assets/2d119492-cba8-4ba0-8340-c4fcbdc00b22)
 
 • Top Grossing Products: The 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air are the highest revenue-generating products, accounting for 35%, 28%, and 22% of total sales, respectively. 
 
@@ -104,6 +104,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 # Refunds
 ### Refund Trends Across All Products
+![Refund Trends 2 47 08 PM](https://github.com/user-attachments/assets/4f74347f-dc43-4e7f-8c35-268d0db91f2f)
 
 • The overall refund rate across all products was 5% with a total of 1.4M in refund amounts. Apple products accounted for 83% of the total refund amount. 
 
