@@ -56,7 +56,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 • In 2022 sales dropped to $5M and AOV returned to $230, a 46% decrease in revenue and 10% decrease in AOV from 2021.
 
 ## Seasonal Trends
-![Seasonality Trends](https://github.com/user-attachments/assets/346bac56-c6d8-4348-9c68-b2e50def63a0)
+![Seasonal Trends](https://github.com/user-attachments/assets/0e9a3ed8-adad-46d3-99a3-60fae605e2e1)
 
 • Top Performing Months: December, September, and January consistently generate the highest revenue and order volume. These peaks likely reflect increased consumer spending during the holiday season and back-to-school periods
 
