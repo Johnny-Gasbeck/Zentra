@@ -1,4 +1,4 @@
-# Zentra Electronics: Additional Stakeholder Questions - Advanced SQL Queries
+# Zentra Electronics: Additional Stakeholder Questions - SQL Queries
 
 -- 1a) What were the order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years?
 
