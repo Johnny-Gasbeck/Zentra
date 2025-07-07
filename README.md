@@ -28,7 +28,7 @@ This analysis focuses on data from 2019 to 2022 — a critical inflection point 
 
 Zentra’s database structure consists of four tables: orders, geo_lookup, customers, and order_status, with a row count of 108,127 records. 
 
-![Alt text](images/Elist_ERD_Diagram.png)
+![Zentra_ERD_Diagram](https://github.com/user-attachments/assets/6403cb76-4e75-45d6-907b-a645d0343c4e)
 
 </details>
 
