@@ -91,7 +91,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 • High AOV Opportunity in Japan: Among the top 5 countries by revenue, Japan has the greatest AOV at $393, but the lowest order count
 
 
-# Loyalty Program 
+## Loyalty Program 
 ![Loyalty Trends](https://github.com/user-attachments/assets/5de94b53-8f0c-4566-a967-d2cc25df79c6)
 
 • Non-loyalty program outperformed the loyalty program in total revenue and AOV over the full period; non-loyalty members generated $17M in revenue with an AOV of $263, while loyalty members generated $11M in revenue with an AOV of $225
@@ -104,7 +104,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 • In 2022, loyalty members also overtook non-loyalty members in AOV, continuing the positive trend. In the final months of 2022, non-loyalty members again outperformed loyalty members in both revenue and AOV
 
-# Refund Trends
+## Refund Trends
 ![Refund Trends 2 47 08 PM](https://github.com/user-attachments/assets/4f74347f-dc43-4e7f-8c35-268d0db91f2f)
 
 • The overall refund rate across all products was 5% with a total of $1.4M in refund amounts. Apple products accounted for 83% of the total refund amount
