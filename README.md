@@ -22,7 +22,7 @@ This analysis focuses on data from 2019 to 2022 — a critical inflection point 
 </details>
 
 <details>
-<summary>Data Structure & Quality Checks</summary>
+<summary>Data Structure</summary>
 
 <br>
 
