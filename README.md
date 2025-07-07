@@ -22,7 +22,7 @@ This analysis focuses on data from 2019 to 2022 — a critical inflection point 
 </details>
 
 <details>
-<summary>Data Structure</summary>
+<summary>Data Structure & ERD</summary>
 
 <br>
 
@@ -202,7 +202,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 • Quantify revenue loss due to refunds by modeling the long-term revenue impact of refund-prone products and using these insights to inform pricing, bundling, or discontinuation decisions
 
 ## Appendix
-
+- Targeted SQL queries to answer additional stakeholder business questions can be found [here](SQL/Zentra_analysis.sql)
 
 
 
