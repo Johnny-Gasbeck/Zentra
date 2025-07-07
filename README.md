@@ -32,6 +32,24 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 </details>
 
+<details>
+<summary>Table of Contents</summary>
+
+<br>
+
+- [Executive Summary](#executive-summary)
+- [Deep-Dive Insights](#deep-dive-insights)
+  - [Historical Trends](#historical-trends)
+  - [Seasonal Trends](#seasonal-trends)
+  - [Product Trends](#product-trends)
+  - [Geographical Trends](#geographical-trends)
+  - [Loyalty Program](#loyalty-program)
+  - [Refund Trends](#refund-trends)
+- [Recommendations](#recommendations)
+- [Appendix](#appendix)
+
+</details>
+
 # Executive Summary
 ![Executive Summary](https://github.com/user-attachments/assets/3baea246-a4b1-4aeb-9758-4a72a61115d0)
 
@@ -182,6 +200,8 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 • Recover missing refund data (Aug 2021–2022) to ensure accurate performance monitoring and inventory planning
 
 • Quantify revenue loss due to refunds by modeling the long-term revenue impact of refund-prone products and using these insights to inform pricing, bundling, or discontinuation decisions
+
+## Appendix
 
 
 
