@@ -1,24 +1,36 @@
-# Zentra-Electronics-Analysis (Work In Progress)
-<img src="https://github.com/user-attachments/assets/70d64f06-adda-4074-a31f-dabb5a9e737f=)" alt = "[Zentra Logo]" width = "250" height = "300">
+# Zentra Electronics Analysis (Work In Progress)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b92f025a-c922-4cf1-813e-b66b14fc8287" alt="Zentra Logo 2" width="900" height="250">
+</p>
 
 ## Project Background
 
 Zentra, founded in 2018, is a global e-commerce company specializing in consumer electronics. It operates through both its website and mobile app, leveraging marketing channels such as email campaigns, SEO, and affiliate partnerships to reach a wide customer base. In recent years, top-selling products have included devices from Apple, Samsung, and ThinkPad.
 
-This analysis focuses on data from 2019 to 2022 — a critical inflection point for technology retailers due to dramatic shifts in consumer behavior, supply chain disruptions, and the rise of remote work. The project aims to generate insights for key departments—including finance, sales, product, and marketing—to better understand Zentra’s performance, identify growth opportunities, and support strategic decision-making. Ultimately, the goal is to enhance operational efficiency and improve Zentra’s ability to deliver high-quality products to customers worldwide.
+This analysis focuses on data from 2019 to 2022 — a critical inflection point for technology retailers due to dramatic shifts in consumer behavior, supply chain disruptions, and the rise of remote work. The project aims to generate insights for key departments—including finance, sales, product, and marketing — to better understand Zentra’s performance, identify growth opportunities, and support strategic decision-making. Ultimately, the goal is to enhance operational efficiency and improve Zentra’s ability to deliver high-quality products to customers worldwide.
 
-## Key Stakeholder Questions
+<details>
+<summary>Key Stakeholder Questions</summary>
+
+<br> 
 
 1. What were the overall sales trends from 2019 to 2022?
-2. What were the company’s monthly and yearly growth rates?
+2. What were the company's monthly and yearly growth rates?
 3. How is the new loyalty program performing? Should we keep using it? 
-4. What were the company’s refund rate and average order value? 
+4. What were the company's refund rate and average order value?
 
-# Data Structure & Quality Checks
+</details>
+
+<details>
+<summary>Data Structure & Quality Checks</summary>
+
+<br>
 
 Zentra’s database structure consists of four tables: orders, geo_lookup, customers, and order_status, with a row count of 108,127 records. 
 
 ![Alt text](images/Elist_ERD_Diagram.png)
+
+</details>
 
 # Executive Summary
 ![Executive Summary](https://github.com/user-attachments/assets/3baea246-a4b1-4aeb-9758-4a72a61115d0)
