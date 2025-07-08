@@ -145,7 +145,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 • Apple AirPods accounted for 49% of all refund transactions, while the MacBook Air had the second highest refund rate and the highest total refund value, resulting in a significant revenue loss
 
-• Refund rates peaked in 2020 at 9.2%, followed by a sharp decline in 2021, and no recorded refunds in 2022. Caveat: No refunds were recorded from August 2021 onward, indicating a potential data gap
+• Refund rates peaked in 2020 at 9.2%, followed by a sharp decline in 2021, and no recorded refunds in 2022. Caveat: No refunds were recorded from August 2021 to December 2022, indicating a potential data gap
 
 
 # Recommendations
