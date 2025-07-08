@@ -203,5 +203,5 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 ## Appendix
 - Targeted SQL queries to answer additional stakeholder business questions can be found [here](SQL/Zentra_analysis.sql)
-- Excel Worksheet for Analysis can be found [here](https://drive.google.com/file/d/your-file-id/view)
+- Excel Worksheet for Analysis can be found [here]( https://docs.google.com/spreadsheets/d/1oUWcUQlAubkgnlYSnAVJSMDaP9Kip4g0/edit?usp=drive_link&ouid=108471887536222639083&rtpof=true&sd=true)
 
