@@ -150,57 +150,43 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 
 # Recommendations
-### Recommendations Based on Historical Trends
 
-- **Sales team** should investigate the **post-2020 decline in revenue and AOV** by analyzing **external market shifts**, **product changes**, and **customer behavior**
+### Recommendations To Marketing Team
 
-- **Align cross-functional teams** (marketing, product, sales) to emphasize growth **not just in sales and order count**, but also in **value** (**AOV YoY growth rate was only 1.9% vs. order count YoY growth rate of 22.3%**)
+- **Launch Q4 and Back-to-School Campaigns Earlier**: December, January, and September consistently showed the **highest revenue and order count**. Launching campaigns earlier in these months can extend the peak momentum months and capture early spenders ahead of competitors. 
+- **Maintain Engagement in Low Performing Months (Feb, June)**: February and June averaged **less than $2M in revenue** and **under 7.3K orders** compared to the average of $2.3M and 9K orders. Deploying clearance sales, training campaigns, or pilots in these months can reduce revenue troughs and keep customers engaged. 
+- **Boost Promotion for High-AOV Underperformers (e.g., Apple iPhone)**: Despite a **high AOV of $360**, the Apple iPhone made up just **0.8% of total revenue**. With tailored email campaigns or time-sensitive bundles, this product could generate stronger ROI and leverage its premium pricing. 
+- **Capitalize on Japan's High AOV ($393)**: Japan has the **highest AOV** among the top 5 revenue-generating countries, yet contributes just **2% of orders**. Regionalized campaigns and localized messaging could convert this high-margin market into a more consistent revenue driver. 
+- **Improve Loyalty Program Engagement**: **Loyalty order count and sales fell by 43% and 44%**, respectively, in 2022, with loyalty sales dipping **below non-loyalty sales in September**. Promoting exclusive perks, early access to bestsellers, and personalized discounts may boost adoption and re-engage loyalty customers.
 
-### Recommendations Based on Seasonal Trends
+### Recommendations To Product Team
 
-- **Marketing team** should **launch campaigns earlier in Q4** and **before the back-to-school season** to capture **peak spending** (especially in **Oct–Dec** and **Aug–Sept**)
+- **Prioritize High-Revenue, High-Growth Products (e.g., Gaming Monitor, AirPods)**: **Gaming Monitors alone drove $9.9M in revenue** with a **strong AOV of $421** and a **moderate refund rate of 6%**, indicating low risk and strong ROI. Similarly, Apple AirPods performed well and are ideal for targeted promotion.
+  
+- **Deprioritize Bose SoundSport**: The Bose SoundSport drove only **$3K in revenue**. This product should be deprioritized or reassessed for repositioning. Resources may be better allocated to higher-performing items.
+- **Address High Refund Rates (e.g., MacBook Air)**: The MacBook Air had a **refund rate of 11.4%**, resulting in **$719K in lost revenue**. High return rates may indicate product misalignment or fulfillment issues that warrant investigation and intervention.
+  
+- **Model Refund Impact on Long-Term Revenue**: Refund-prone products such as the MacBook Air affect not just immediate sales but long-term value through reduced retention. Modeling this impact can inform pricing, bundling, and discontinuation decisions.
+  
+- **Recover Missing Refund Data (Aug 2021–2022)**: The **absence of refund data for 12+ months** limits visibility into product performance and impacts refund trend modeling, inventory planning, and loss prevention. Collaboration with the data team is needed to investigate and fill this gap.
 
-- **Product team** should work with suppliers to ensure **availability and quality ahead of demand surges**, especially for **bestsellers like Apple products and gaming monitors in Nov–Jan**
+### Recommendations to Sales Team
 
-- **Maintain engagement in low-volume months** (e.g., **Feb, June**) with **clearance sales**, **staff training**, or **pilot initiatives**
+- **Analyze Revenue & AOV Decline Post-2020**: Revenue fell from **$10M in 2020 to $5M in 2022**, and AOV declined from **$300 to $230**. This suggests shifting consumer behavior or market saturation. Deeper sales funnel analysis could identify areas for revitalization.
+  
+- **Pursue High-AOV Opportunity in Japan ($393 AOV)**: Collaborating with Marketing could turn Japan into a high-margin growth region by using localized ads, translated content, and regional partnerships to boost order count.
 
-### Recommendations Based on Product Trends
+- **Protect Core Markets**: **US, GB, CA, JP, DE generate over 66% of total revenue**. Sustaining this share requires consistent stock availability, targeted promotions, and a frictionless customer experience.
 
-- **Prioritize promotion** of **high-revenue, high-potential products** such as the **Gaming Monitor** and **Apple AirPods**
+### Recommendations Across Teams
 
-- **Product team** should **investigate and possibly deprioritize Bose SoundSport**, reallocating the **budget to higher performers**
+- **Promote Value-Oriented Growth (AOV Focus)**: While **order volume grew 22.3% YoY**, AOV rose only **1.9%**. Cross-functional strategies like upselling, tiered pricing, and product personalization can help rebalance growth quality.
 
-- **Marketing team** should boost promotion for **high-AOV underperformers like the Apple iPhone**; despite its strong AOV, the iPhone contributes just **0.8% of revenue**. **Email campaigns**, **featured product placements**, or **limited-time bundles** could increase **visibility and drive conversions**
+- **Diversify Market Exposure Beyond U.S. (47% of Sales)**: Australia, while contributing many orders, has an **AOV of $204**. Bundling accessories or offering upsells at checkout could increase value per transaction and reduce overreliance on the U.S. market.
 
-### Recommendations Based on Geographical Trends
+- **Evaluate Loyalty Program ROI**: The data does not provide enough evidence to make a conclusive decision about keeping the loyalty program. The **reversal in 2021–2022 suggests growing engagement**, but the **late 2022 trend reversal** highlights the need for ongoing performance monitoring using real-time tracking and segmented reporting. Cross-functional teams should assess **CAC and retention rates** between loyalty and non-loyalty users to clarify the program's financial value.
 
-- **Marketing and Sales teams** should focus on **Japan as a high-AOV growth opportunity**, using **localized ads**, **translated content**, and **regional partnerships** to boost volume
 
-- **Protect core markets** (**U.S., U.K., Canada**) by ensuring **stock availability** and **customer experience** are optimized during **high-demand periods**
-
-- **Diversify market exposure beyond the U.S.** (which accounts for ~**47% of sales**) by **scaling efforts to increase AOV** in countries like **Australia**, which have **strong order count**, by bundling **accessories** or offering **add-ons at checkout**
-
-### Recommendations for Loyalty Program 
-
-##### Monitoring the Loyalty Program
-
-- The data does not provide enough evidence to make a **conclusive decision about keeping the loyalty program**. The **reversal in 2021–2022 suggests growing engagement**, but the **late 2022 trend reversal** highlights the need for **ongoing performance monitoring**
-
-- **Marketing team** should **evaluate ROI of the loyalty program**: Compare **customer acquisition cost (CAC)** and **retention rate** for **loyalty vs. non-loyalty members** to help determine the **financial viability** of keeping or scaling this program
-
-##### Ways to Improve Loyalty Program 
-
-- **Launch a re-engagement campaign** for **inactive loyalty members**: Identify members who haven't purchased recently and encourage them to return with **time-limited offers** or **bonus rewards**
-
-- **Promote membership at checkout** and **align program incentives with bestsellers** to maximize **adoption and repeat purchase behavior**
-
-### Recommendations Based on Refund Trends
-
-- **Product team** should investigate **high-refund products**, especially the **MacBook Air (11.4% refund rate, $719K in losses)**, to address **quality or expectation gaps**
-
-- **Recover missing refund data (Aug 2021–2022)** to ensure **accurate performance monitoring** and **inventory planning**
-
-- **Quantify revenue loss due to refunds** by modeling the **long-term revenue impact of refund-prone products** and using these insights to inform **pricing**, **bundling**, or **discontinuation decisions**
 
 ## Appendix
 - Targeted SQL queries to answer additional stakeholder business questions can be found [here](SQL/Zentra_analysis.sql)
