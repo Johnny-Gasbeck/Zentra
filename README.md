@@ -153,9 +153,12 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 ### Recommendations To Marketing Team
 
 - **Launch Q4 and Back-to-School Campaigns Earlier**: December, January, and September consistently showed the **highest revenue and order count**. Launching campaigns earlier in these months can extend the peak momentum months and capture early spenders ahead of competitors. 
-- **Maintain Engagement in Low Performing Months (Feb, June)**: February and June averaged **less than $2M in revenue** and **under 7.3K orders** compared to the average of $2.3M and 9K orders. Deploying clearance sales, training campaigns, or pilots in these months can reduce revenue troughs and keep customers engaged. 
-- **Boost Promotion for High-AOV Underperformers (e.g., Apple iPhone)**: Despite a **high AOV of $360**, the Apple iPhone made up just **0.8% of total revenue**. With tailored email campaigns or time-sensitive bundles, this product could generate stronger ROI and leverage its premium pricing. 
-- **Capitalize on Japan's High AOV ($393)**: Japan has the **highest AOV** among the top 5 revenue-generating countries, yet contributes just **2% of orders**. Regionalized campaigns and localized messaging could convert this high-margin market into a more consistent revenue driver. 
+- **Maintain Engagement in Low Performing Months (Feb, June)**: February and June averaged **less than $2M in revenue** and **under 7.3K orders** compared to the average of $2.3M and 9K orders. Deploying clearance sales, training campaigns, or pilots in these months can reduce revenue troughs and keep customers engaged.
+
+- **Boost Promotion for High-AOV Underperformers (e.g., Apple iPhone)**: Despite a **high AOV of $741**, the Apple iPhone made up just **0.8% of total revenue**. With tailored email campaigns or time-sensitive bundles, this product could generate stronger ROI and leverage its premium pricing.
+
+- **Capitalize on Japan's High AOV ($393)**: Japan has the **highest AOV** among the top 5 revenue-generating countries, yet contributes just **2% of orders**. Regionalized campaigns and localized messaging could convert this high-margin market into a more consistent revenue driver.
+
 - **Improve Loyalty Program Engagement**: **Loyalty order count and sales fell by 43% and 44%**, respectively, in 2022, with loyalty sales dipping **below non-loyalty sales in September**. Promoting exclusive perks, early access to bestsellers, and personalized discounts may boost adoption and re-engage loyalty customers.
 
 ### Recommendations To Product Team
@@ -163,6 +166,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 - **Prioritize High-Revenue, High-Growth Products (e.g., Gaming Monitor, AirPods)**: **Gaming Monitors alone drove $9.9M in revenue** with a **strong AOV of $421** and a **moderate refund rate of 6%**, indicating low risk and strong ROI. Similarly, Apple AirPods performed well and are ideal for targeted promotion.
   
 - **Deprioritize Bose SoundSport**: The Bose SoundSport drove only **$3K in revenue**. This product should be deprioritized or reassessed for repositioning. Resources may be better allocated to higher-performing items.
+
 - **Address High Refund Rates (e.g., MacBook Air)**: The MacBook Air had a **refund rate of 11.4%**, resulting in **$719K in lost revenue**. High return rates may indicate product misalignment or fulfillment issues that warrant investigation and intervention.
   
 - **Model Refund Impact on Long-Term Revenue**: Refund-prone products such as the MacBook Air affect not just immediate sales but long-term value through reduced retention. Modeling this impact can inform pricing, bundling, and discontinuation decisions.
