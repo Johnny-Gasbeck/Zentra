@@ -100,9 +100,9 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 ## Product Trends
 ![Product Trends 2 47 08 PM](https://github.com/user-attachments/assets/2d119492-cba8-4ba0-8340-c4fcbdc00b22)
 
-- **Top Grossing Products:** The **27-inch 4K Gaming Monitor**, **Apple AirPods**, and **MacBook Air** are the **highest revenue-generating products**, accounting for **35%**, **28%**, and **22%** of total sales, respectively
+- **Top Grossing Products:** The **27-inch 4K Gaming Monitor**, **Apple AirPods**, **MacBook Air**, and **Thinkpad Laptop** are the **highest revenue-generating products**, accounting for **35%**, **28%**, **22%**, and **11%**of total sales, respectively
 
-- **Greatest Order Count:** **Apple AirPods lead with 48,000 orders**, followed by the **27-inch 4K Gaming Monitor (23,000 orders)** and **Samsung Charging Cable Pack (21,000 orders)** — highlighting **consistent customer demand**
+- **Greatest Order Count:** **Apple AirPods lead with 48,000 orders**, followed by the **Gaming Monitor (23,000 orders)** and **Samsung Charging Cable Pack (21,000 orders)** — contributing for 84% of all orders.
 
 - **Apple iPhone ($741)** has the **third highest AOV**, but only accounts for **0.8% of revenue**; this indicates **strong revenue potential per transaction** for the iPhone
 
