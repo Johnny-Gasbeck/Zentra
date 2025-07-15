@@ -109,7 +109,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 
 ## Geographical Trends
-<img width="1547" height="815" alt="Geographic Trends" src="https://github.com/user-attachments/assets/014bf358-42f7-4e1c-b131-bbe9d8fdb4b3" />
+<img width="1547" height="815" alt="Geographic Trends" src="https://github.com/user-attachments/assets/3d011993-aa7b-4df0-8a57-a8f85a22c79f" />
 
 - North America accounts for **52% of total sales**, with a peak of **$5.3M in 2020**, representing a 155% increase from 2019 — highlighting the region's critical role during the pandemic-driven e-commerce boom.
 
