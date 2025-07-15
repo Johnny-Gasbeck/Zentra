@@ -89,15 +89,15 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 ## Seasonal Trends
 ![Seasonal Trends](https://github.com/user-attachments/assets/0e9a3ed8-adad-46d3-99a3-60fae605e2e1)
 
-- **Top performing months:** December, September, and January generated the highest revenue and order counts. These peaks likely reflect increased consumer spending during the holiday season and back-to-school periods.
+- **Top performing months:** **December**, **September**, and **January** generated the highest revenue and order counts. These peaks likely reflect increased consumer spending during the holiday season and back-to-school periods.
 
-- **Lowest performing months:** February, October, and June had the lowest revenue and order counts, possibly due to a post-holiday dip and reduced spending following the back-to-school season.
+- **Lowest performing months:** **February**, **October**, and **June** had the lowest revenue and order counts, possibly due to a post-holiday dip and reduced spending following the back-to-school season.
 
 - **Holiday surge effect:** November showed a seasonal lift with an **18% revenue increase** and **24% order increase** compared to the previous month. December followed with a **23% revenue increase** and **21% rise in orders**, likely driven by holiday gift purchases and year-end promotions.
 
 
 ## Product Trends
-<img width="1547" height="815" alt="Geographic Trends" src="https://github.com/user-attachments/assets/5ed082e6-8b90-4bdf-805f-126d1cd5f0ff" />
+<img width="1199" height="799" alt="Product Trends" src="https://github.com/user-attachments/assets/dd0fa608-b0ca-4dd3-a6fa-9acd8be689d5" />
 
 - **Top grossing products:** The 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and Thinkpad Laptop accounted for **35%**, **28%**, **22%**, and **11%** of total sales, respectively. These four products likely drove the most revenue, especially in 2020, because of a spike in demand for remote work and distance learning tools.
 
@@ -111,13 +111,13 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 ## Geographical Trends
 <img width="1547" height="815" alt="Geographic Trends" src="https://github.com/user-attachments/assets/014bf358-42f7-4e1c-b131-bbe9d8fdb4b3" />
 
-- **North America accounts for 52% of total sales**, with a **peak of $5.3M in 2020**, representing a **155% increase from 2019** — highlighting the region's **critical role during the pandemic-driven e-commerce boom**
+- North America accounts for **52% of total sales**, with a peak of **$5.3M in 2020**, representing a 155% increase from 2019 — highlighting the region's critical role during the pandemic-driven e-commerce boom.
 
-- **Top Grossing Country:** The **United States** is the **leading market**, generating **47.3% of total sales revenue** — **over six times** that of the **United Kingdom**, which ranks second
+- **Top grossing country:** The United States is the leading market, generating **47.3% of total sales revenue** — over six times that of the United Kingdom, which ranks second.
 
-- **Top 5 Countries by Revenue:** The **United States, United Kingdom, Canada, Japan, and Denmark** are the top five revenue-generating countries, together accounting for **66.1% of total sales**
+- **Top 5 countries by revenue:** The United States, United Kingdom, Canada, Japan, and Denmark together account for **66.1% of total sales**.
 
-- **High AOV Opportunity in Japan:** Among the top 5 countries by revenue, **Japan has the greatest AOV at $393**, but the **lowest order count** — signaling a **high-value, underpenetrated market**
+- **High AOV opportunity in Japan:** Among the top 5 countries by revenue, Japan has the greatest AOV at **$393**, but the lowest order count — signaling a high-value, underpenetrated market.
 
 
 ## Loyalty Program 
