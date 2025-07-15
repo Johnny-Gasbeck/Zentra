@@ -86,31 +86,30 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 - The subsequent increase in order count, but decline in AOV in 2021 and 2022 suggests a return to lower-priced, everyday items and potential **consumer price sensitivity** post-pandemic, leading to diluted transaction value despite sustained purchasing activity.
 
 
-
 ## Seasonal Trends
 ![Seasonal Trends](https://github.com/user-attachments/assets/0e9a3ed8-adad-46d3-99a3-60fae605e2e1)
 
-- **Top Performing Months:** **December, September, and January** consistently generate the **highest revenue and order counts**. These peaks likely reflect **increased consumer spending during the holiday season and back-to-school periods**
+- **Top performing months:** December, September, and January generated the highest revenue and order counts. These peaks likely reflect increased consumer spending during the holiday season and back-to-school periods.
 
-- **Lowest Performing Months:** **February, October, and June** tend to have the **lowest revenue and order counts**, possibly due to a **post-holiday dip** and **reduced spending following the back-to-school season**
+- **Lowest performing months:** February, October, and June had the lowest revenue and order counts, possibly due to a post-holiday dip and reduced spending following the back-to-school season.
 
-- **Holiday Surge Effect:** **November shows a strong seasonal lift**, with an **average revenue increase of 18%** and an **average order increase of 24%** compared to the previous month. **December follows with a 23% revenue increase** and a **21% rise in orders**, likely driven by **holiday gift purchases and year-end promotions**
+- **Holiday surge effect:** November showed a seasonal lift with an **18% revenue increase** and **24% order increase** compared to the previous month. December followed with a **23% revenue increase** and **21% rise in orders**, likely driven by holiday gift purchases and year-end promotions.
 
 
 ## Product Trends
-![Product Trends 2 47 08 PM](https://github.com/user-attachments/assets/2d119492-cba8-4ba0-8340-c4fcbdc00b22)
+<img width="1547" height="815" alt="Geographic Trends" src="https://github.com/user-attachments/assets/5ed082e6-8b90-4bdf-805f-126d1cd5f0ff" />
 
-- **Top Grossing Products:** The **27-inch 4K Gaming Monitor**, **Apple AirPods**, **MacBook Air**, and **Thinkpad Laptop** are the **highest revenue-generating products**, accounting for **35%**, **28%**, **22%**, and **11%** of total sales, respectively
+- **Top grossing products:** The 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and Thinkpad Laptop accounted for **35%**, **28%**, **22%**, and **11%** of total sales, respectively. These four products likely drove the most revenue, especially in 2020, because of a spike in demand for remote work and distance learning tools.
 
-- **Greatest Order Count:** **Apple AirPods lead with 48,000 orders**, followed by the **Gaming Monitor (23,000 orders)** and **Samsung Charging Cable Pack (21,000 orders)** — making up 84% of all orders
+- **Greatest order count:** Apple AirPods led with **48,000 orders**, followed by the Gaming Monitor (**23,000 orders**) and Samsung Charging Cable Pack (**21,000 orders**) — making up 84% of all orders. This trend likely reflects heightened consumer demand for affordable, high-utility tech accessories during the pandemic, as people adapted to remote work, online learning, and increased device usage at home.
 
-- **Apple iPhone ($741)** has the **third highest AOV**, but only accounts for **0.8% of revenue**; this indicates **strong revenue potential per transaction** for the iPhone
+- Apple iPhone (**$741 AOV**) had the **third-highest AOV**, but contributed just **0.8% of revenue**, signaling strong per-transaction potential that has yet to be fully tapped.
 
-- **Lowest Performing Product:** The **Bose SoundSport** significantly underperformed, generating **less than 0.1% of total revenue**, with just **$3,000 in sales** and **27 orders** overall
+- **Lowest performing product:** Bose SoundSport generated **less than 0.1% of revenue**, with only **$3,000 in sales** and **27 total orders**, highlighting minimal traction with consumers.
 
 
 ## Geographical Trends
-![Geographic Trends](https://github.com/user-attachments/assets/84d94dce-cb7f-4f62-9e09-5b43d4df11c0)
+<img width="1547" height="815" alt="Geographic Trends" src="https://github.com/user-attachments/assets/014bf358-42f7-4e1c-b131-bbe9d8fdb4b3" />
 
 - **North America accounts for 52% of total sales**, with a **peak of $5.3M in 2020**, representing a **155% increase from 2019** — highlighting the region's **critical role during the pandemic-driven e-commerce boom**
 
