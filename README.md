@@ -97,7 +97,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 
 ## Product Trends
-<img width="1199" height="799" alt="Product Trends" src="https://github.com/user-attachments/assets/dd0fa608-b0ca-4dd3-a6fa-9acd8be689d5" />
+<img width="1199" height="799" alt="Product Trends" src="https://github.com/user-attachments/assets/d678e461-c553-4d83-a3d1-1f68c8e58e2b" />
 
 - **Top grossing products:** The 27-inch 4K Gaming Monitor, Apple AirPods, MacBook Air, and Thinkpad Laptop accounted for **35%**, **28%**, **22%**, and **11%** of total sales, respectively. These four products likely drove the most revenue, especially in 2020, because of a spike in demand for remote work and distance learning tools.
 
@@ -121,7 +121,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 
 ## Loyalty Program 
-![Loyalty Trends](https://github.com/user-attachments/assets/5de94b53-8f0c-4566-a967-d2cc25df79c6)
+<img width="1199" height="799" alt="Loyalty Trends" src="https://github.com/user-attachments/assets/611a1417-e15d-4a18-afcb-7b404eb38553" />
 
 - **Non-loyalty members outperformed loyalty members overall**, generating **$17M in revenue** with an **AOV of $263**, compared to **$11M in revenue** and an **AOV of $225** for loyalty members
 
@@ -135,7 +135,7 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 
 
 ## Refund Trends
-![Refund Trends 2 47 08 PM](https://github.com/user-attachments/assets/4f74347f-dc43-4e7f-8c35-268d0db91f2f)
+<img width="1253" height="689" alt="Refund Trends" src="https://github.com/user-attachments/assets/0c7be791-ad01-4c11-859f-a06b0cbab8a0" />
 
 - The **overall refund rate across all products was 5%** with a **total of $1.4M** in refund amounts. **Apple products accounted for 83%** of the total refund amount
 
