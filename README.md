@@ -1,6 +1,6 @@
 # Zentra Electronics Analysis (Work In Progress)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b92f025a-c922-4cf1-813e-b66b14fc8287" alt="Zentra Logo 2" width="850" height="200">
+  <img src="https://github.com/user-attachments/assets/b92f025a-c922-4cf1-813e-b66b14fc8287" alt="Zentra Logo 2" width="1062.5" height="250">
 </p>
 
 ## Project Background
@@ -51,40 +51,40 @@ Zentra’s database structure consists of four tables: orders, geo_lookup, custo
 </details>
 
 # Executive Summary
-![Executive Summary](https://github.com/user-attachments/assets/3baea246-a4b1-4aeb-9758-4a72a61115d0)
+<img width="1199" height="799" alt="Executive Summary" src="https://github.com/user-attachments/assets/a8d5abe8-1c89-456f-9c84-46e1125e2555" />
 
-- **Peak sales occurred in December 2020**, with **monthly revenue reaching $1.3M** during the pandemic-driven e-commerce boom. **Sales declined significantly after 2020**, with **revenue dropping 46%** and **AOV falling 10% from 2021 to 2022**, signaling a shift in consumer behavior and product engagement. Teams should investigate these trends and work cross-functionally to **boost AOV** (**which only grew 1.9% annually vs. 22.3% in orders**) through pricing strategies, bundling, and product mix optimization.
 
-- **Campaigns should launch earlier in Q4 and back-to-school periods (Aug–Nov)** to capitalize on seasonal trends, while **slow months like February (historically under $400K)** can be used for promotions, process improvements, or piloting new initiatives.
+- Peak sales occurred in **December 2020**, with monthly revenue reaching **$1.3M** during the pandemic-driven e-commerce boom. Sales declined significantly after 2020, with revenue dropping **46%** and AOV falling **10% from 2021 to 2022**, signaling a shift in consumer behavior and product engagement. Teams should investigate these trends and work cross-functionally to boost AOV (which only grew **1.9% annually vs. 22.3% in orders**) through pricing strategies, bundling, and product mix optimization.
 
-- **Top products like Apple AirPods and a Gaming Monitor account for a combined $1.4M+ in revenue**, yet **high-AOV items like the iPhone contribute just 0.8% of total revenue**. **Marketing should prioritize high-return products**, increase visibility for underperformers, and reduce investment in consistently low performers like Bose SoundSport. Additionally, **Japan — with one of the highest AOV's among countries — presents a key growth opportunity** if order count can be increased.
+- Campaigns should launch earlier in Q4 and back-to-school periods (**Aug–Nov**) to capitalize on seasonal trends, while slow months like **February (historically under $480K)** can be used for promotions, process improvements, or piloting new initiatives.
 
-- **Loyalty program underperformed** in comparison to non-loyalty members as it **only accounted for 39% of revenue** and had a **lower yearly AOV over the full period**. However, **loyalty program performance improved in 2021 and 2022**, with signs of re-engagement followed by a late dip in 2022, emphasizing the need for **tighter performance tracking**.
+- Top products like **Apple AirPods** and a **Gaming Monitor** account for a combined **$1.4M+ in revenue**, yet high-AOV items like the iPhone contribute just **0.8% of total revenue**. Marketing should prioritize high-return products, increase visibility for underperformers, and reduce investment in consistently low performers like Bose SoundSport. Additionally, **Japan — with the highest AOV among top revenue-generating countries** — presents a key growth opportunity if order count can be increased.
 
-- **Refund amounts on the MacBook Air alone total $719K with an 11% refund rate**, eroding margins despite strong sales. **Investigating causes**, **recovering missing refund data from Aug 2021–2022**, and **modeling long-term impact** will help optimize product offerings and reduce costly returns.
+- The loyalty program underperformed compared to non-loyalty members, accounting for just **39% of revenue** and showing a lower yearly AOV across the full period. However, performance improved in **2021 and 2022**, followed by a dip in late 2022, emphasizing the need for tighter performance tracking.
+
+- Refund amounts on the **MacBook Air** alone totaled **$719K with an 11.4% refund rate**, eroding margins despite strong sales. Investigating refund causes, recovering missing refund data (**Aug 2021–2022**), and modeling long-term impact will help optimize product offerings and reduce costly returns.
 
 # Deep-Dive Insights
 
 ## Historical Trends
-![Monthly Trends 3 00 26 PM](https://github.com/user-attachments/assets/ec9c8872-805a-4d1f-ac57-c521a0af838d)
+<img width="1199" height="799" alt="Monthly Trends" src="https://github.com/user-attachments/assets/9223fe31-d818-40b7-88c6-a33166bb0c67" />
 
 ### Monthly Sales Trends
 
-- **Average monthly revenue was $586K** with a **month-over-month (MoM) growth rate of 1.4%**, **average monthly orders were 2,000** (**1.1% growth rate**), and **AOV averaged $253** (**0.3% growth rate**)
+- Average monthly revenue was **$586K** with a month-over-month (MoM) growth rate of **1.4%**, average monthly orders were **2,000** (1.1% growth rate), and AOV averaged **$253** (0.3% growth rate). This slower AOV growth may indicate a shift toward lower-priced items during this time period or heavier reliance on discounting to drive volume, which helped boost order count but diluted the average value per transaction.
 
-- **Sales revenue peaked in December 2020**, then steadily declined — likely driven by a **surge in holiday spending** and **increased e-commerce activity during the pandemic**
-
-- **AOV peaked at $322 in October 2020**, before declining consistently, reflecting **shifts in reduced high-value purchases post-2020**
+- Sales revenue **peaked in December 2020**, then steadily declined — likely driven by a surge in holiday spending and increased e-commerce activity during the pandemic.
 
 ### Yearly Sales Trends
 
-- **Average yearly revenue was $7M**, growing at a **year-over-year (YoY) rate of 35.6%**, **yearly orders averaged 27,000** with a **growth rate of 22.3%**, and **AOV averaged $255** with a **growth rate of 1.9%**
+- Average yearly revenue was **$7M**, growing at a year-over-year (YoY) rate of 35.6%, yearly orders averaged **27,000** with a growth rate of 22.3%, and AOV averaged **$255** with a growth rate of 1.9%.
 
-- **2020 marked the peak year**, with **$10M in sales** and a **$300 AOV**, up from **$3.9M in sales** and a **$230 AOV in 2019** — highlighting **strong pandemic-driven demand**
+- 2020 marked the **peak year**, with **$10M in sales** and a **$300 AOV**, up from $3.9M in sales and a $230 AOV in 2019 — highlighting strong pandemic-driven demand and a shift toward higher-value purchases during lockdowns.
 
-- **2021 had the most orders**, with a **growth rate of 6% from 2020**, indicating **more purchases but at lower order values**
+- 2021 had the **most orders**, with a growth rate of 6% from 2020, indicating more purchases but at lower order values. In 2022, sales dropped to **$5M** and AOV returned to **$230**, a 46% decrease in revenue and 10% decrease in AOV from 2021.
 
-- In **2022, sales dropped to $5M** and **AOV returned to $230**, a **46% decrease in revenue** and **10% decrease in AOV from 2021**
+- The subsequent increase in order count, but decline in AOV in 2021 and 2022 suggests a return to lower-priced, everyday items and potential **consumer price sensitivity** post-pandemic, leading to diluted transaction value despite sustained purchasing activity.
+
 
 
 ## Seasonal Trends
