@@ -1,7 +1,10 @@
 # Zentra Electronics Analysis 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a2c202df-52c1-4a81-85d3-8f293e04f8cd" alt="Zentra Logo 2" width="625" height="200">
+  <img src="https://github.com/user-attachments/assets/1675bcd9-e3d9-44ea-8288-d78135e9e278" alt="Zentra Logo 3" width="600" height="600">
 </p>
+
+
+
 
 ## Project Background
 
